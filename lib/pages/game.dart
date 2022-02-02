@@ -22,7 +22,9 @@ class _GamePageState extends State<GamePage> {
           title: const Text(
             "Cobras e Escadas",
             style: TextStyle(
-                fontWeight: FontWeight.bold, fontSize: 30, fontFamily: 'Heebo'),
+                fontWeight: FontWeight.bold,
+                fontSize: 30,
+                fontFamily: 'Heebog'),
           ),
           actions: [
             IconButton(
