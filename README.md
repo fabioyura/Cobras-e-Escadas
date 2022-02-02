@@ -1,7 +1,7 @@
 # Seleção de Desenvolvedor de Software - Escribo
 
 ![screen1](https://user-images.githubusercontent.com/87349194/152256345-8e8e2a0e-a784-41cb-b4ee-57624c436b82.png)
-![screen2](https://user-images.githubusercontent.com/87349194/152256421-7cb3f7e4-8b3f-47d9-9404-87635f2ba5fc.png)
+![screen2](https://user-images.githubusercontent.com/87349194/152256904-afc618b2-fd7f-4bc7-b346-f6ed873ad5a2.png)
 
 ## Clone este repositório
 [fabioyura/teste1 (github.com)](https://github.com/fabioyura/teste1)
