@@ -22,3 +22,7 @@ dart.\main.dart
 
 
 **Observação:**  Necessita ter o dart instalado na máquina e um emulador/celular para rodar a aplicação.
+
+
+
+Snakes and Ladders app is a fun digital version of the classic board game. With colorful graphics and smooth animations, players can challenge each other or play against the computer. The gameplay is easy to understand, simply roll the dice and move your token according to the space you land on. But be careful! The snakes will take you back and the ladders will help you climb faster. 
